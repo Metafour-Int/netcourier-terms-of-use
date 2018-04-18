@@ -1,2 +1,2 @@
-# netcourier-terms-of-use
-NetCourier's Terms of Use
+# NetCourier Terms of Use.
+To be updated by Metafour staff. Will appear on NetCourier Back Office upon login.
