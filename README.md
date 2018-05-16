@@ -20,4 +20,4 @@ ___THIS IS BOLD AND ITALIC___
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-v0.0.7
+v0.0.8
