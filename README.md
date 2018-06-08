@@ -33,5 +33,7 @@ All matters relating to your use of the application shall be governed by the law
 
 
 Copyright © 2018. All rights reserved.
+
 Metafour UK Ltd, 2 Berghem Mews, London W14 0HN, UK
+
 Created on 02/05/2018
