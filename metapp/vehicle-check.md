@@ -1,7 +1,7 @@
 # Daily Vehicle Checklist
 Please conduct the following checks and confirm.
 
-## EXTERNAL VEHICLE CONDITION
+## External Vehicle Condition
 
 1. Condition of vehicle bodywork, windscreen, windows, lights
 2. Condition of windscreen wiper blades
@@ -10,7 +10,7 @@ Please conduct the following checks and confirm.
 5. Condition of tyres, tyre pressure, tyre wear
 6. Availability of spare wheel & jack
  
-## FLUIDS
+## Fluids
 
 1. Engine oil level
 2. Coolant level
@@ -20,7 +20,7 @@ Please conduct the following checks and confirm.
 6. Condition of battery
 7. Oil or waste leaks
  
-## VEHICLE INTERIOR AND EQUIPMENT
+## Vehicle Interior and Equipment
 
 1. Condition & function of seat belts
 2. Head restraint adjustment
@@ -32,7 +32,7 @@ Please conduct the following checks and confirm.
 8. Warning triangle
 9. Vehicle handbook
 
-## FUNCTION CHECKS BEFORE STARTING THE JOURNEY
+## Function Checks Before Starting the Journey
 
 1. Warning light
 2. All lights
